@@ -1,3 +1,13 @@
+Learning outcomes
+1. Understand modern frontend frameworks and SPA
+architecture
+2. Set up development environment with Node.js and npm
+3. Create a functional SPA with basic components
+4. Implement client-side routing for page navigation
+5. Manage component state with React hooks
+6. Integrate external APIs and handle data fetching
+7. Deploy the SPA to a hosting platfor
+   
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
