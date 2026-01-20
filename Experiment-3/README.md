@@ -1,3 +1,13 @@
+1. Understand client-side routing concepts
+2. Install React Router DOM library
+3. Implement basic routing with multiple pages
+4. Create dynamic routes with URL parameters
+5. Use nested routes for layouts
+6. Implement programmatic navigation
+7. Protect routes with authentication
+8. Handle 404 Not Found pages
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
