@@ -1,4 +1,5 @@
 MySQL database integration
+
 Tested using Postman
 
 ## Setup
@@ -15,4 +16,5 @@ Tested using Postman
 
 ## API Endpoints
 POST /students
+
 GET /students
